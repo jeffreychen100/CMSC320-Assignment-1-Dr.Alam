@@ -1,3 +1,7 @@
 Q1: Why might be consider using git?
 
 Answer: Git is a great way to merge, compile, and asynchronously work on a repository of code. Many workplaces use it, and a lot of people treat it as the best way to combine and upload code while working in different places.
+
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: Data science could be applied to variety of fields - one example is economics. Data science is extremely good at crunching a massive number of data points into a very concise representation of some piece of information. For instance, by compiling population of a certain place along with the price of a few select goods over time, we can track how people have bought and sold that good over a long period of time, depending on the variance in price. At the end, millions of data points can be compiled into one clear visual representation of all the data.
