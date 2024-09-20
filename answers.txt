@@ -1,0 +1,3 @@
+Q1: Why might be consider using git?
+
+Answer: Git is a great way to merge, compile, and asynchronously work on a repository of code. Many workplaces use it, and a lot of people treat it as the best way to combine and upload code while working in different places.
