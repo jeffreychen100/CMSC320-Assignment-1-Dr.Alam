@@ -5,3 +5,7 @@ Answer: Git is a great way to merge, compile, and asynchronously work on a repos
 Q2: What field could data science be applied to? Give and Example and how it might help
 
 Answer: Data science could be applied to variety of fields - one example is economics. Data science is extremely good at crunching a massive number of data points into a very concise representation of some piece of information. For instance, by compiling population of a certain place along with the price of a few select goods over time, we can track how people have bought and sold that good over a long period of time, depending on the variance in price. At the end, millions of data points can be compiled into one clear visual representation of all the data.
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging combines two branches by creating a merge commit - it links the two histories together and keeps the histories of each branch intact. Rebasing moves the changes from one branch on top of another, rewriting the history of the project, making it a single, linear history.
